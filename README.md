@@ -1,3 +1,3 @@
 # indodax_crypto
 
-Indodax indicator strength buy or sell crypto price.
+Indodax indicator strength app for crypto trading.
