@@ -1,3 +1,3 @@
 # indodax_crypto
 
-Indodax indicator strength app for crypto trading.
+[Indodax](https://indodax.com) indicator strength app for crypto trading.
